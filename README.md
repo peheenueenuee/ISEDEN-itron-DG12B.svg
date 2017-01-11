@@ -1,1 +1,1 @@
-"# ISEDEN-itron-DG12B.svg" 
+# ISEDEN-itron-DG12B.svg
