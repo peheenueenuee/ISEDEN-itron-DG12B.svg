@@ -1,10 +1,7 @@
 # ISEDEN-itron-DG12B.svg
 
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="all" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="1920px" height="1080px" viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080" xml:space="preserve">
+	 y="0px" width="192px" height="108px" viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080" xml:space="preserve">
 <path fill="#0D1634" stroke="#231815" stroke-miterlimit="10" d="M829.528,209.275c1.174,0,6.472-2.941,6.472-2.941
 	s16.402-43.167,21-48.083s13.75-9.75,33.25-13.25s176.25-8.25,180-7.625s13.053,8.497,16.25,6.625s20.5-12,20.5-12s1-4.5,0-11.5
 	s-5-10-24-16.5s-163.328-5.416-202.291,2.208C866.688,109.155,844,113,833.5,120.5s-24.5,27.167-25.833,30s-1.807,15.677,0,21.167
